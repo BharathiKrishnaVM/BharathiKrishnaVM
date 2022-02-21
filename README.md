@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and developing single page applications
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me bharathikrishna.vm@gmail.com
+- 📫 How to reach me krishna180196@gmail.com
 
 <!---
 BharathiKrishnaVM/BharathiKrishnaVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
